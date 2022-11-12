@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melfurtia
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning SDET
+- 🌱 I’m currently working as SDET
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me Melfurtia@gmail.com
 
